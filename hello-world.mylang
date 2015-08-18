@@ -1,0 +1,7 @@
+
+
+println("hello world");
+
+student_name = scan(string);
+
+print(student_name);
